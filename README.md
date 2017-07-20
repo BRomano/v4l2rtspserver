@@ -8,6 +8,7 @@
 
 v4l2rtspserver
 ====================
+####https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=60542&p=594423#p594423
 
 This is an streamer feed from :
  - an Video4Linux device that support H264, JPEG or VP8 capture.
